@@ -2,6 +2,10 @@
   "name": "check_in",
   "app_id": "95a5d4ca",
   "type": "ionic1",
+  "gulpStartupTasks": [
+    "sass",
+    "watch"
+  ],
   "integrations": {
     "gulp": {},
     "cordova": {}
